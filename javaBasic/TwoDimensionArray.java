@@ -3,7 +3,7 @@ package javaBasic;
 public class TwoDimensionArray {
 	
 	public static void main(String[] args) {
-		int[] [] array4 = new int[3][4];
+		int[][] array4 = new int[3][4];
 		array4[0][1] = 10;
 		
 		int[][] array5 = new int[3][];
